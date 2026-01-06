@@ -74,6 +74,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Contributions welcome! Please see the documentation for development guidelines.
 
+## Donations / Support
+
+[Support and donations are appreciated but not required.](https://github.com/femtotrader/support/)
+
+
 ---
 
 *Built with ❤️ for the Julia community*
